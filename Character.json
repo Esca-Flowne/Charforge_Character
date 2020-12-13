@@ -1,22 +1,22 @@
 {
   "Character": [
     {
-      "Name":"Lilith Cromartie",
-      "Level": "5",
-      "Str": "12",
-      "Dex": "14",
-      "Con": "18",
-      "Int": "18",
-      "Wis": "12",
-      "Cha": "8",
-      "Class": "Ranger",
-      "Background": "Mercenary",
-      "Site": "https://www.dndbeyond.com/classes/ranger",
-      "Description": "The Ranger lives a vagabond's life going from contract to contract with their mercenary band. Each contract yielding its own unique trials and tribulations. Their skills serving as a guide for the rest of the company, the Ranger is able to guide them through rough and nigh impossible to navigate terrain. While settling in for a night one of their expeditions the Ranger hears talk of a mutiny from around the campfire. Soon they are forced to choose between the comrades they've made and the path out on their own.",
-      "Image": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/367/420/618/636272702826438096.png"
+      "CharacterName":"Lilith Cromartie",
+      "CharacterLevel": "5",
+      "CharacterStrength": "12",
+      "CharacterDexterity": "14",
+      "CharacterConstitution": "18",
+      "CharacterIntelligence": "18",
+      "CharacterWisdom": "12",
+      "CharacterCharisma": "8",
+      "CharacterClass": "Ranger",
+      "CharacterBackground": "Mercenary",
+      "CharacterSiteURL": "https://www.dndbeyond.com/classes/ranger",
+      "CharacterDescription": "The Ranger lives a vagabond's life going from contract to contract with their mercenary band. Each contract yielding its own unique trials and tribulations. Their skills serving as a guide for the rest of the company, the Ranger is able to guide them through rough and nigh impossible to navigate terrain. While settling in for a night one of their expeditions the Ranger hears talk of a mutiny from around the campfire. Soon they are forced to choose between the comrades they've made and the path out on their own.",
+      "CharacterPortrait": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/367/420/618/636272702826438096.png"
      },
      {
-      "Name":"Dudek Homis",
+      "CharacterName":"Dudek Homis",
       "Level": "8",
       "Str": "14",
       "Dex": "6",
