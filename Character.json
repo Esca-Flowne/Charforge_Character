@@ -13,7 +13,7 @@
       "CharacterBackground": "Mercenary",
       "CharacterSiteURL": "https://www.dndbeyond.com/classes/ranger",
       "CharacterDescription": "The Ranger lives a vagabond's life going from contract to contract with their mercenary band. Each contract yielding its own unique trials and tribulations. Their skills serving as a guide for the rest of the company, the Ranger is able to guide them through rough and nigh impossible to navigate terrain. While settling in for a night one of their expeditions the Ranger hears talk of a mutiny from around the campfire. Soon they are forced to choose between the comrades they've made and the path out on their own.",
-      "CharacterPortrait": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/367/420/618/636272702826438096.png"
+      "CharacterPortrait": "https://i.imgur.com/PPpqRde.png"
      },
      {
       "CharacterName":"Dudek Homis",
@@ -27,11 +27,11 @@
       "CharacterClass": "Cleric",
       "CharacterBackground": "Homeless",
       "CharacterSiteURL": "https://www.dndbeyond.com/classes/cleric",
-      "CharacterDescription": "Dudek is Homis.",
-      "CharacterPortrait": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/367/420/618/636272702826438096.png"
+      "CharacterDescription": "The cleric lived a solemn and pious life in service of their god. Often found among the commonfolk, toiling his days away trying to feed, clothe or educate those less fortunate than himself. The clerif had known a difficult life before joining the cloister of brothers and this makes him sympathize with the helpless. He's set upon by brigands and thieves that seek to steal the cloister's riches when he is forced into a fight.",
+      "CharacterPortrait": "https://i.imgur.com/HQWJSoA.jpg"
      },
      {
-      "CharacterName":"Kennith Brandt",
+      "CharacterName":"Gab Brandt",
       "CharacterLevel": "2",
       "CharacterStrength": "6",
       "CharacterDexterity": "12",
@@ -43,10 +43,10 @@
       "CharacterBackground": "Nomad",
       "CharacterSiteURL": "https://www.dndbeyond.com/classes/druid",
       "CharacterDescription": "The forests of Akiven are not known to be hospitable especially not to outsiders. However some are able to make it a temporary home. The Druid is not bound to a single land but journeys in hopes of finding a place nonetheless. The Druid hasn't been alone -- accompanied by his companion ,Ifar, the pair make their way through Akiven across the distant plains toward Kovid where they hear tales of verdant valleys and lush forests lie in wait for them.",
-      "CharacterPortrait": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/367/420/618/636272702826438096.png"
+      "CharacterPortrait": "https://i.imgur.com/OtfDSpO.jpg"
      },
      {
-      "CharacterName":"Dustin Roads",
+      "CharacterName":"Fley Roads",
       "CharacterLevel": "1",
       "CharacterStrength": "14",
       "CharacterDexterity": "14",
@@ -58,7 +58,7 @@
       "CharacterBackground": "Slave",
       "CharacterSiteURL": "https://www.dndbeyond.com/classes/monk",
       "CharacterDescription": "Born in the slave pits, far from the light of the world the Monk has known few comforts in their life. Every step in life; a new trial awaits. Each day is a new challenge where the battle is for survival. Though the Monk is not without the ability to rouse the other slaves into friendship. They are soon able to escape the pits by banding together and conspiring to flee. Upon reaching safe harbor many of the Monk's friends were not able to acclimate into their new environments -- turning to the only ways they've known participating in fights as free men while the Monk began a pilgrimage.",
-      "CharacterPortrait": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/367/420/618/636272702826438096.png"
+      "CharacterPortrait": "https://i.imgur.com/pAIeBNX.jpg"
      },
      {
       "CharacterName":"Marge Glambord",
@@ -73,7 +73,7 @@
       "CharacterBackground": "Noble",
       "CharacterSiteURL": "https://www.dndbeyond.com/classes/wizard",
       "CharacterDescription": "The Wizard was not one for manners and her temperament was ill suited to the road. Crossing over the vast continent of Klid, she journeys to the capital in hopes of uncovering the truth of rumors spreading recently. Rumors that detail the return of a magic not seen since the age that the gods walked the earth in physical form. Having lived a sheltered life in the courts of her majesty's mages, the Wizard finds it difficult to navigate the outside world. Arrival at the capital however does not mark any better fortunes for her as she is soon taken advantage of by one of the locals. In self defense, she kills a group of men trying to rob her and is nearly sentenced to prison. She must now trade her skills in service of the lord of this land to avoid imprisonment.",
-      "CharacterPortrait": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/367/420/618/636272702826438096.png"
+      "CharacterPortrait": "https://i.imgur.com/pyfnecI.png"
      },
      {
       "CharacterName":"Jill Stand",
@@ -87,8 +87,8 @@
       "CharacterClass": "Paladin",
       "CharacterBackground": "Covenant",
       "CharacterSiteURL": "https://www.dndbeyond.com/classes/paladin",
-      "CharacterDescription": "The Paladin is mean.",
-      "CharacterPortrait": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/367/420/618/636272702826438096.png"
+      "CharacterDescription": "The paladin has lived a life in service to their lord. Known to many as a cruel and intolerable individual, the paladin was an inflexible enforcer. Their passion for justice was challenged one day when travelers robbed a local noble of a minor portion of grain for food. The paladin was tasked with dispensing justice that day but somehow they couldn't abide by their orders. Steeling themselves, they took the travelers and bade them escape while the paladin made a flimsy excuse for their disappearance. The noble sought blood and so he got it.",
+      "CharacterPortrait": "https://i.imgur.com/YLFr2N3.jpg"
      }
   ],
   "status":"OK"
